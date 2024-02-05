@@ -2,7 +2,7 @@ const arrayA = [1, 2, 3, 4, 5];
 const arrayB = [3, 4, 5, 6, 7];
 
 const togetherArray = arrayA.concat(arrayB);
-console.log(togetherArray);
+
 
 const uniqueArray = [];
 for (let i = 0; i < togetherArray.length; i++){
